@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetOpGgScoreData", "GetOpGgScoreData\GetOpGgScoreData.csproj", "{B218A977-F2B0-43D1-8F0E-1E83E24E33AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B218A977-F2B0-43D1-8F0E-1E83E24E33AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B218A977-F2B0-43D1-8F0E-1E83E24E33AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B218A977-F2B0-43D1-8F0E-1E83E24E33AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B218A977-F2B0-43D1-8F0E-1E83E24E33AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57B04975-1457-4AE4-94CB-750C1708A091}
+	EndGlobalSection
+EndGlobal
